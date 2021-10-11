@@ -1,0 +1,33 @@
+img{
+  height:50px;
+  width:50px;
+}
+
+#Home{
+  width:100%;
+  height:600px;
+  background-color: antiquewhite;
+}
+
+#About{
+  width:100%;
+  height:500px;
+  background-color: rgb(104, 165, 107);
+}
+
+#edu{
+  width:100%;
+  height:500px;
+  background-color: rgb(104, 141, 165);
+}
+
+#con{
+  width:500%;
+  height:100px;
+  background-color: rgb(196, 115, 196);
+}
+
+#goa{
+  height:500px;
+  width:500px;
+}
